@@ -1,0 +1,17 @@
+[user]                                                                                                                                                                               
+    name = Ajeet Grewal
+    email = asgrewal@gmail.com
+[color]
+    branch = auto
+    diff = auto
+    status = auto
+[alias]
+    co = checkout
+    stat = status
+    ci = commit
+    st = status
+    br = branch
+[core]
+    editor = vim
+[url "git://github.com"]
+    insteadOf = "gh:"

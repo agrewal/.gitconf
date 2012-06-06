@@ -11,5 +11,5 @@
     ci = commit
     st = status
     br = branch
-[url "git://github.com"]
+[url "git@github.com:"]
     insteadOf = "gh:"

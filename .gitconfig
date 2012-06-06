@@ -11,7 +11,5 @@
     ci = commit
     st = status
     br = branch
-[core]
-    editor = vim
 [url "git://github.com"]
     insteadOf = "gh:"
